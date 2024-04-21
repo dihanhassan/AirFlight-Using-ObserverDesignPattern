@@ -1,0 +1,7 @@
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\bin\Debug\Observers.exe.config
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\bin\Debug\Observers.exe
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\bin\Debug\Observers.pdb
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\obj\Debug\Observers.csproj.AssemblyReference.cache
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\obj\Debug\Observers.csproj.CoreCompileInputs.cache
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\obj\Debug\Observers.exe
+C:\Users\TN-99347\Desktop\AirFlight.API\Observers\Observers\obj\Debug\Observers.pdb
